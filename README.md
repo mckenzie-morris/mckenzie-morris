@@ -12,4 +12,4 @@
 <hr></hr>
 
 <h1>Welcome! Willkommen! ¡Bienvenido! Bienvenue! dobro pozhalovat’!</h1>
-<div>:sunglasses:</div>
+<div><img src= https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg height=50px width=50px></div>
