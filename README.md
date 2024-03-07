@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src= >
+<img src= ./ezgif.com-crop.webp>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mckenzie-morris91/">
