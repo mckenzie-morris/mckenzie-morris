@@ -11,5 +11,5 @@
 </div>
 <hr></hr>
 
-<h1>Welcome! Willkommen! ¡Bienvenido! Bienvenue! dobro pozhalovat’!</h1>
+<h1 align="center">Welcome! Willkommen! ¡Bienvenido! Bienvenue! dobro pozhalovat’!</h1>
 <div><img src= https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg height=50px width=50px></div>
