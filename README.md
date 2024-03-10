@@ -18,3 +18,14 @@
   <img src = ./html5-original.svg height=50px width=50px>
   <img src = ./css3-original.svg height=50px width=50px>
 </div>
+<div id="frontend" align="center">
+  <img src = ./react-original.svg height=50px width=50px>
+  <img src = ./redux-original.svg height=50px width=50px>
+  <img src = ./bootstrap-original.svg height=50px width=50px>
+  <img src = ./tailwindcss-original.svg height=50px width=50px>
+  <img src = ./sass-original.svg height=50px width=50px>
+</div>
+<div id="backend" align="center">
+  <img src = ./nodejs-plain-wordmark.svg height=50px width=50px>
+  <img src = ./express-original-wordmark.svg height=50px width=50px>
+</div>
