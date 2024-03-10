@@ -12,4 +12,9 @@
 <hr></hr>
 
 <h1 align="center">Welcome! Willkommen! ¡Bienvenido! Bienvenue!</h1>
-<div><img src= https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg height=50px width=50px></div>
+<div id="languages" align="center" >
+  <img src = ./javascript-original.svg height=50px width=50px>
+  <img src = ./typescript-original.svg height=50px width=50px>
+  <img src = ./html5-original.svg height=50px width=50px>
+  <img src = ./css3-original.svg height=50px width=50px>
+</div>
