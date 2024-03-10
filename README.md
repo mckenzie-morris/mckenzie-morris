@@ -28,4 +28,7 @@
 <div id="backend" align="center">
   <img src = ./nodejs-plain-wordmark.svg height=50px width=50px>
   <img src = ./express-original-wordmark.svg height=50px width=50px>
+  <img src = ./postgresql-original.svg height=50px width=50px>
+  <img src = ./mongodb-original.svg height=50px width=50px>
+  <img src = ./mongoose-original.svg height=50px width=50px>
 </div>
