@@ -27,7 +27,7 @@
 </div>
 <div id="backend" align="center">
   <img src = ./nodejs-plain-wordmark.svg height=50px width=50px>
-  <img src = ./devicon_icons_express_express-original.svg at master · devicons_devicon.html height=50px width=50px>
+  <img src = ./devicon_icons_express_express.html height=50px width=50px>
   <img src = ./postgresql-original.svg height=50px width=50px>
   <img src = ./mongodb-original.svg height=50px width=50px>
   <img src = ./mongoose-original.svg height=50px width=50px>
