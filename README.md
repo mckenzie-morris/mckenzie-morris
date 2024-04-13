@@ -21,6 +21,7 @@
 <div id="frontend" align="center">
   <img src = ./react-original.svg height=50px width=50px>
   <img src = ./redux-original.svg height=50px width=50px>
+  <img src = ./jquery-original.svg height=50px width=50px>
   <img src = ./bootstrap-original.svg height=50px width=50px>
   <img src = ./tailwindcss-original.svg height=50px width=50px>
   <img src = ./sass-original.svg height=50px width=50px>
