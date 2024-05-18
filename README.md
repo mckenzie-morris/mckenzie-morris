@@ -22,6 +22,7 @@
   <img src = ./react-original.svg height=50px width=50px>
   <img src = ./redux-original.svg height=50px width=50px>
   <img src = ./jquery-original.svg height=50px width=50px>
+  <img src = ./axios-plain-wordmark.svg height=50px width=50px>
   <img src = ./icons8-ejs.svg height=50px width=50px>
   <img src = ./bootstrap-original.svg height=50px width=50px>
   <img src = ./tailwindcss-original.svg height=50px width=50px>
