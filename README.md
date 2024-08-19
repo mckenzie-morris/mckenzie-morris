@@ -6,9 +6,6 @@
     <img src=./MckenzieLinkedIn.svg >
   </a>
 </div>
-<div id="Num_Of_Views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mckenzie-morris&style=flat-square&color=brightgreen"/>
-</div>
 <hr></hr>
 
 <h1 align="center">Welcome! Willkommen! ¡Bienvenido! Bienvenue!</h1>
