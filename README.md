@@ -34,4 +34,5 @@
 </div>
 <div id="tools" align="center">
   <img src = ./webpack-original.svg height=50px width=50px>
+  <img src = ./git-original.svg height=50px width=50px>
 </div>
